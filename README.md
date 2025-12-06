@@ -18,8 +18,8 @@ While the NHS is the focal example, the strategies, risks, and recommendations a
 
 Intro
     
-      🎯 Purpose of the Report</li>
-      Key Findings</li>
+      🎯 Purpose of the Report
+      Key Findings
     
 
   Introduction to Threat Intelligence
@@ -43,9 +43,9 @@ Intro
 
   Threat Intelligence Sources and Tools
     
-      🔎 Major Cyber Threat Intelligence Sources</li>
-      🛠️ Practical Tools for Threat Intelligence</li>
-      🤝 Advisory and Professional Groups</li>
+      🔎 Major Cyber Threat Intelligence Sources
+      🛠️ Practical Tools for Threat Intelligence
+      🤝 Advisory and Professional Groups
       📊 Threat Intelligence Sources and Tools Summary Table
     
 
@@ -82,7 +82,7 @@ Intro
     
   
 
-  Passive Reconnaissance with theHarvester</b>
+  Passive Reconnaissance with theHarvester
   
       🎯 Purpose and Methodology
       ⚙️ Setup and Execution Steps
@@ -93,7 +93,7 @@ Intro
     
 
 
-  Email Exposure and Breach Analysis</b>
+  Email Exposure and Breach Analysis
     
       📧 Using HaveIBeenPwned for Breach Verification
       🛡️ Security Recommendations for Breached Accounts
@@ -107,8 +107,8 @@ Intro
     
 
 
-  <li><b>Infrastructure and Service Exposure Analysis
-    <ul>
+  Infrastructure and Service Exposure Analysis
+    
      🌐 Investigating IPs on Shodan.io
      ⚠️ Technical Findings and Risks
      ✅ Recommendations for Service Hardening
@@ -130,26 +130,26 @@ Intro
 
   Case Study: Qilin Ransomware Attack on Synnovis/NHS
     
-      📖 Overview of Qilin (Agenda)</li>
-      🕒 Timeline of the Synnovis Incident</li>
-      🔍 Attack Preparation and Reconnaissance</li>
-      🚪 Initial Access and Exploitation</li>
-      📤 Data Exfiltration and Impact</li>
-      🛡️ Mitigation and Security Recommendations</li>
-      ⚠️ Vulnerabilities and Contributing Factors</li>
-      💻 Ransomware-as-a-Service Model</li>
-      🏥 Why Synnovis/NHS Was Targeted</li>
-      🧭 Attack Sequence and MITRE Mapping</li>
-      💔 Impact on Patient Care and Operations</li>
-      🔄 Recovery and Lessons Learned</li>
+      📖 Overview of Qilin (Agenda)
+      🕒 Timeline of the Synnovis Incident
+      🔍 Attack Preparation and Reconnaissance
+      🚪 Initial Access and Exploitation
+      📤 Data Exfiltration and Impact
+      🛡️ Mitigation and Security Recommendations
+      ⚠️ Vulnerabilities and Contributing Factors
+      💻 Ransomware-as-a-Service Model
+      🏥 Why Synnovis/NHS Was Targeted
+      🧭 Attack Sequence and MITRE Mapping
+      💔 Impact on Patient Care and Operations
+      🔄 Recovery and Lessons Learned
  
 
-  Post-Incident Analysis and Recommendations</b>
+  Post-Incident Analysis and Recommendations
     
-      ⚠️ Vulnerabilities Identified</li>
-      ✅ Preventive Measures Going Forward</li>
-      🔗 Supply Chain and Third-Party Risk Management</li>
-      🏢 Organizational and Cultural Measures</li>
+      ⚠️ Vulnerabilities Identified
+      ✅ Preventive Measures Going Forward
+      🔗 Supply Chain and Third-Party Risk Management
+      🏢 Organizational and Cultural Measures
     
 
 
